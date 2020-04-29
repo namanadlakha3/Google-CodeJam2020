@@ -3,7 +3,7 @@ def solve():
     arr = []
     for i in range(n):
         arr.append([int(j) for j in input().split()])
-    #print(a
+    #print(
     diag = 0
     col = 0
     row = 0
